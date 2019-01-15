@@ -1,5 +1,7 @@
 # Minimizing Supervision for Free-space Segmentation
 
+This is the **informal** soruce code for the following paper. The formal one is here: https://github.com/pfnet-research/superpixel-align 
+
 http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Tsutsui_Minimizing_Supervision_for_CVPR_2018_paper.pdf
 ```
 @inproceedings{tsutsui2018minimizing,
